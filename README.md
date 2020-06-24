@@ -1,4 +1,4 @@
-# NTHUEE 223001 Final
+# NTHUEE 223001 Logic Design Laboratory Final Project
 
 - FPGA BASYS3
 
